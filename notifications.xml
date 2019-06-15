@@ -1,0 +1,29 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="NONE" shouldLog="false" />
+    <notification groupId=".ignore plugin update information" displayType="NONE" shouldLog="false" />
+    <notification groupId="Accepted language levels" />
+    <notification groupId="Automatic indent detection" />
+    <notification groupId="Code style settings migration" />
+    <notification groupId="Compiler" displayType="NONE" shouldLog="false" />
+    <notification groupId="EditorConfig" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Framework Detection" shouldLog="false" />
+    <notification groupId="Gradle Import" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Grape" shouldLog="false" />
+    <notification groupId="Node.js interpreter" shouldLog="false" />
+    <notification groupId="notification.group.id.gradle" shouldLog="false" />
+    <notification groupId="OSGi" shouldLog="false" />
+    <notification groupId="OSGi Bnd Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Plugin DevKit Deployment" shouldLog="false" />
+    <notification groupId="Plugins updates" shouldLog="false" />
+    <notification groupId="Repository" shouldLog="false" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
