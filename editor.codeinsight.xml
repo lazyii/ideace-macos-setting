@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SUPPRESS_WARNINGS" value="false" />
+  </component>
+</application>
