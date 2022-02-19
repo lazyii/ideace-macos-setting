@@ -25,6 +25,7 @@
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="CopyElement" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debugger.EditTypeSource" />
   <action id="DecrementWindowHeight" />
@@ -98,6 +99,9 @@
   <action id="ResizeToolWindowUp" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
