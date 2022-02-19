@@ -1,6 +1,3 @@
 /**
- * 
- * @author ${USER}
- * @time  ${DATE} ${TIME}
- * @description 
+ * Created by ${USER} on ${DATE} ${TIME}.
  */

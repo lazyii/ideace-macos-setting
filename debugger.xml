@@ -1,6 +1,10 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="false" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="KILL_PROCESS_IMMEDIATELY" value="true" />
     <option name="INSTRUMENTING_AGENT" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -79,9 +83,9 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general>
-      <scroll-to-center>true</scroll-to-center>
-    </general>
+    <data-views>
+      <option name="showLibraryStackFrames" value="false" />
+    </data-views>
+    <general />
   </component>
 </application>
