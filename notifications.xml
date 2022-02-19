@@ -1,3 +1,5 @@
 <application>
-  <component name="NotificationConfiguration" systemNotifications="false" />
+  <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId="Language Plugins Notifications" displayType="NONE" shouldLog="false" />
+  </component>
 </application>
